@@ -1,4 +1,4 @@
-year_zone (6f,6m,6c,7f,7m,7c,8f,8m,8c,9f,9m,9c,0f,0m,0c,1f,1m,1c,2f,2m,2c),year (86,87,88,89,90,91,92),strip numeric,pdk numeric,damage_rankRJT (0,1,2,3,4,5),damage_rankALL (0,1,2,3,4,5),dry_or_irr (D,O,B),zone (F,M,C),GG_new
+year_zone,year,strip_numeric,pdk numeric,damage_rankRJT,damage_rankALL,dry_or_irr,zone,GG_new
 6f,86,3,1,1,0,D,F,low
 6f,86,3,2,0,0,D,F,high
 6f,86,3,3,1,1,D,F,high
